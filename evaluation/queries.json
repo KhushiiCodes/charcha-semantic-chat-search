@@ -1,0 +1,242 @@
+[
+  {
+    "query": "When did we decide on the trip?",
+    "expected_id": "msg_0584",
+    "type": "semantic",
+    "hard": true
+  },
+  {
+    "query": "Which destination became the final choice?",
+    "expected_id": "msg_0584",
+    "type": "semantic",
+    "hard": true
+  },
+  {
+    "query": "When was the group finally settled on a place?",
+    "expected_id": "msg_0584",
+    "type": "semantic",
+    "hard": true
+  },
+  {
+    "query": "Which location got the final go-ahead?",
+    "expected_id": "msg_0584",
+    "type": "semantic",
+    "hard": true
+  },
+  {
+    "query": "What was the confirmed destination?",
+    "expected_id": "msg_0584",
+    "type": "semantic",
+    "hard": true
+  },
+  {
+    "query": "Where did everyone agree to travel?",
+    "expected_id": "msg_0584",
+    "type": "semantic",
+    "hard": true
+  },
+  {
+    "query": "What did Priya say about the application deadline?",
+    "expected_id": "msg_2821",
+    "type": "person",
+    "hard": false
+  },
+  {
+    "query": "Who mentioned the portal closing time?",
+    "expected_id": "msg_2821",
+    "type": "person",
+    "hard": false
+  },
+  {
+    "query": "What did the group decide about splitting dinner?",
+    "expected_id": "msg_4198",
+    "type": "semantic",
+    "hard": true
+  },
+  {
+    "query": "Who confirmed that the amount was okay for each person?",
+    "expected_id": "msg_4198",
+    "type": "person",
+    "hard": true
+  },
+  {
+    "query": "What did Rohan say about the trip budget?",
+    "expected_id": "msg_0530",
+    "type": "person",
+    "hard": false
+  },
+  {
+    "query": "Who said Manali was the final plan?",
+    "expected_id": "msg_0584",
+    "type": "person",
+    "hard": false
+  },
+  {
+    "query": "What was the per-person dinner amount?",
+    "expected_id": "msg_4197",
+    "type": "semantic",
+    "hard": false
+  },
+  {
+    "query": "What did Sneha ask after the expense discussion?",
+    "expected_id": "msg_4199",
+    "type": "semantic",
+    "hard": false
+  },
+  {
+    "query": "What did Khushi say about tickets?",
+    "expected_id": "msg_0667",
+    "type": "person",
+    "hard": false
+  },
+  {
+    "query": "What did Priya say about resume?",
+    "expected_id": "msg_2781",
+    "type": "person",
+    "hard": false
+  },
+  {
+    "query": "What did Aman say about the dinner total?",
+    "expected_id": "msg_4196",
+    "type": "person",
+    "hard": false
+  },
+  {
+    "query": "What did Neha ask about Manali?",
+    "expected_id": "msg_0502",
+    "type": "person",
+    "hard": false
+  },
+  {
+    "query": "What did Aditya say after the trip was fixed?",
+    "expected_id": "msg_0637",
+    "type": "person",
+    "hard": false
+  },
+  {
+    "query": "What did Priya say about the trip budget?",
+    "expected_id": "msg_0558",
+    "type": "person",
+    "hard": false
+  },
+  {
+    "query": "Tell me about the trip budget",
+    "expected_id": "msg_0530",
+    "type": "semantic",
+    "hard": false
+  },
+  {
+    "query": "Who thought Kasol was costly?",
+    "expected_id": "msg_0476",
+    "type": "semantic",
+    "hard": false
+  },
+  {
+    "query": "Who wanted to look at tickets later?",
+    "expected_id": "msg_0667",
+    "type": "semantic",
+    "hard": false
+  },
+  {
+    "query": "Who said the trip was manageable?",
+    "expected_id": "msg_0558",
+    "type": "semantic",
+    "hard": false
+  },
+  {
+    "query": "Who was going on the trip?",
+    "expected_id": "msg_0637",
+    "type": "semantic",
+    "hard": false
+  },
+  {
+    "query": "What did the placement group say about Friday?",
+    "expected_id": "msg_2762",
+    "type": "semantic",
+    "hard": false
+  },
+  {
+    "query": "What time does the portal close?",
+    "expected_id": "msg_2821",
+    "type": "semantic",
+    "hard": false
+  },
+  {
+    "query": "Who said they would complete the form tonight?",
+    "expected_id": "msg_2837",
+    "type": "semantic",
+    "hard": false
+  },
+  {
+    "query": "What did the group say about aptitude?",
+    "expected_id": "msg_2857",
+    "type": "semantic",
+    "hard": false
+  },
+  {
+    "query": "How much was the dinner bill?",
+    "expected_id": "msg_4196",
+    "type": "semantic",
+    "hard": false
+  },
+  {
+    "query": "How was the dinner split?",
+    "expected_id": "msg_4197",
+    "type": "semantic",
+    "hard": false
+  },
+  {
+    "query": "Who asked about UPI?",
+    "expected_id": "msg_4199",
+    "type": "semantic",
+    "hard": false
+  },
+  {
+    "query": "Who should receive the UPI transfer?",
+    "expected_id": "msg_4200",
+    "type": "semantic",
+    "hard": false
+  },
+  {
+    "query": "What did Rohan say after the amount was split?",
+    "expected_id": "msg_4198",
+    "type": "semantic",
+    "hard": false
+  },
+  {
+    "query": "What did Priya say about sending money?",
+    "expected_id": "msg_4200",
+    "type": "semantic",
+    "hard": false
+  },
+  {
+    "query": "What did Aman say about dinner?",
+    "expected_id": "msg_4196",
+    "type": "semantic",
+    "hard": false
+  },
+  {
+    "query": "What did Khushi ask about TCS?",
+    "expected_id": "msg_2805",
+    "type": "semantic",
+    "hard": false
+  },
+  {
+    "query": "Who asked for aptitude topics?",
+    "expected_id": "msg_2857",
+    "type": "semantic",
+    "hard": false
+  },
+  {
+    "query": "What did Arjun say about the portal?",
+    "expected_id": "msg_2762",
+    "type": "semantic",
+    "hard": false
+  },
+  {
+    "query": "Who said the portal was open until late?",
+    "expected_id": "msg_2821",
+    "type": "semantic",
+    "hard": false
+  }
+]

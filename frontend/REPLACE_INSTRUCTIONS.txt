@@ -1,0 +1,13 @@
+CHARCHA FUTURISTIC FRONTEND
+
+1. Stop the current frontend terminal with Ctrl+C.
+2. Rename your existing D:\Charcha\frontend folder to frontend_old (recommended backup).
+3. Rename/copy this frontend folder to D:\Charcha\frontend.
+4. Open a terminal in D:\Charcha\frontend.
+5. Run: npm install
+6. Run: npm run dev
+7. Keep the backend running at http://127.0.0.1:8000.
+8. Open http://localhost:5173.
+
+The frontend is designed as a drop-in replacement and calls the existing POST /search and GET /stats endpoints.
+It also includes a preview state before the first search, so the UI looks polished immediately.
